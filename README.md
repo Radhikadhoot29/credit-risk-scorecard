@@ -1,4 +1,4 @@
-# 💳 Credit Risk Scorecard
+# Credit Risk Scorecard
 
 > An end-to-end loan default prediction system built on 50,000+ applicants using XGBoost and Logistic Regression — engineering 15+ financial features to mirror NBFC industry-standard scorecards, with Tableau-ready risk segmentation output.
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Non-performing loans (NPLs) are one of the most costly problems for lenders. This project builds a production-style credit risk scorecard that predicts the probability of loan default for individual applicants — enabling lenders to make faster, data-driven decisions on approvals, rejections, and manual reviews.
 
@@ -19,7 +19,7 @@ The full pipeline covers data generation → feature engineering → model train
 
 ---
 
-## 📊 Results
+##  Results
 
 | Model | AUC-ROC | Avg Precision | 5-Fold CV AUC |
 |---|---|---|---|
@@ -38,7 +38,7 @@ The full pipeline covers data generation → feature engineering → model train
 
 ---
 
-## ✨ Features
+##  Features
 
 - **50,000 synthetic applicants** generated with realistic NBFC-style distributions
 - **28 engineered features** including:
@@ -56,7 +56,7 @@ The full pipeline covers data generation → feature engineering → model train
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -69,7 +69,7 @@ The full pipeline covers data generation → feature engineering → model train
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 credit-risk-scorecard/
@@ -87,7 +87,7 @@ credit-risk-scorecard/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 # 1. Clone the repository
@@ -105,7 +105,7 @@ All outputs are saved automatically to the `outputs/` folder.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ```
 Data Generation (50k applicants, realistic NBFC distributions)
@@ -137,7 +137,7 @@ Train/Test Split (80/20 stratified by default label)
 
 ---
 
-## 📈 Potential Improvements
+##  Potential Improvements
 
 - [ ] Integrate real loan data (e.g. Lending Club, Home Credit datasets from Kaggle)
 - [ ] Add SHAP explainability plots for individual loan decisions
@@ -147,15 +147,15 @@ Train/Test Split (80/20 stratified by default label)
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Radhika Dhoot**  
-📧 radhikadhoot206@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/radhika-dhoot-848aa1251)  
-🐙 [GitHub](https://github.com/radhikkaajeanzzz)
+ radhikadhoot206@gmail.com  
+ [LinkedIn](https://www.linkedin.com/in/radhika-dhoot-848aa1251)  
+ [GitHub](https://github.com/radhikadhoot29)
