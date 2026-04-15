@@ -1,0 +1,5 @@
+decision,count,avg_default_prob,actual_default_rate
+Approve,1253,0.1655,0.1995
+Auto-Approve,3830,0.0237,0.0282
+Decline,3814,0.8178,0.8112
+Manual Review,1103,0.349,0.3889
